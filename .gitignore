@@ -1,4 +1,8 @@
-django/venv/
-discord/venv/
-telegram/venv/
-telegram/myenv/
+src/django/venv/
+src/discord/venv/
+src/telegram/venv/
+src/telegram/myenv/
+
+
+**/__pycache__
+**/.DS_Store
