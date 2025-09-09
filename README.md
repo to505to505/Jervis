@@ -4,7 +4,9 @@ Jervis is a side project where we mixed AI image generation with a small online 
 It allowed users to generate custom images via a Telegram bot and purchase them as printed t-shirts (we printed t-shirts ourselves).   
 
 ---
-![Me and almost happy customer](/docs/jervis_photo.jpg)
+<!-- ![Me and almost happy customer](/docs/jervis_photo.jpg) -->
+<img src="/docs/jervis_photo.jpg" alt="Me and almost happy customer" width="400"/>
+
 
 ## Features
 - AI image generation through a custom Midjourney integration.  
