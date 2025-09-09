@@ -5,7 +5,9 @@ It allowed users to generate custom images via a Telegram bot and purchase them 
 
 ---
 <!-- ![Me and almost happy customer](/docs/jervis_photo.jpg) -->
-<img src="/docs/jervis_photo.jpg" alt="Me and almost happy customer" width="400"/>
+<p align="center">
+  <img src="/docs/jervis_photo.jpg" alt="Me and almost happy customer" width="400"/>
+</p>
 
 
 ## Features
