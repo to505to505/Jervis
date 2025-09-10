@@ -5,7 +5,7 @@ It allowed users to generate custom images via a Telegram bot and purchase them 
 
 ---
 ## Our t-shirts
-## Our t-shirts
+
 
 <p align="center">
   <img src="/docs/jervis_photo.jpg" alt="Me and almost happy customer" width="400"/>
@@ -16,12 +16,12 @@ It allowed users to generate custom images via a Telegram bot and purchase them 
     <td align="center">
       <img src="/docs/tshirt_photo1.jpg" alt="tshirt1" width="350"/>
       <br>
-      <em>Optional caption for the left image.</em>
+      <em></em>
     </td>
     <td align="center">
       <img src="/docs/tshirt_photo2.jpg" alt="tshirt2" width="350"/>
       <br>
-      <em>Optional caption for the right image.</em>
+ 
     </td>
   </tr>
 </table>
@@ -55,3 +55,10 @@ User (Telegram) → Telegram Bot → Django Backend → Discord Bot → Midjourn
 - **Django backend** manages business logic, user data, order processing, and communication between services.  
 - **Discord bot** connects with Midjourney, submits prompts, and retrieves generated images.  
 - **Midjourney** provides the AI-based image generation used in the product.  
+
+
+## Our chat-bot
+
+<p align="center">
+  <img src="/docs/chat_photo.jpg" alt="chat photo" width="400"/>
+</p>
