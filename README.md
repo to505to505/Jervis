@@ -22,7 +22,7 @@ It allowed users to generate custom images via a Telegram bot and purchase them 
       <img src="/docs/tshirt_photo2.jpg" alt="tshirt2" width="350"/>
       <br>
  
-    </td>
+   
   </tr>
 </table>
 
